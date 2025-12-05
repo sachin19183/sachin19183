@@ -31,6 +31,13 @@
 
 ---
 
+---
+
+### 🎓 Certifications
+![Google Cloud PCA](https://img.shields.io/badge/Google%20Cloud%20Professional%20Cloud%20Architect-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+---
+
 ### 🛠️ Tech & Tools
 
 #### Cloud & Architecture

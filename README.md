@@ -49,8 +49,8 @@
 ---
 
 ### 📫 Let’s Connect
-💼 **LinkedIn:** *(add link here — I can help if you share it!)*  
-📧 **Email:** *(optional — add if comfortable!)*  
+💼 **LinkedIn:** *(https://www.linkedin.com/in/sachin-sharma-b36b596)*  
+📧 **Email:** *(sachin19183@gmail.com)*  
 
 ---
 

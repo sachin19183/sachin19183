@@ -13,4 +13,6 @@ Solution Architect with 20+ years of experience designing and transforming syste
 - Architecture for digital transformation
 
 📚 I write about my learning journey and transformation insights.
+https://sachin19183/github.io
+I also post philosophical thoughts which have inspired me in my life and short motivational stories
 (Will add blog link soon!)

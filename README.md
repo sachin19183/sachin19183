@@ -27,7 +27,7 @@
 🔗 **Portfolio / Blog:** https://sachin19183.github.io/  
 
 🧘 I also post philosophical reflections & short motivational stories  
-*(Dedicated blog link coming soon!)*
+* https://sachin19183.github.io/path-of-the-silent-warrior/ *
 
 ---
 
